@@ -1,0 +1,7 @@
+
+order_id,customer_id,amount,status,country
+7001,101,250.00,completed,VN
+7002,102,450.50,completed,US
+7003,103,120.00,pending,VN
+7004,104,950.00,completed,SG
+7005,105,780.00,completed,VN
